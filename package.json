@@ -1,0 +1,27 @@
+{
+  "name": "themes-starter-mdl",
+  "version": "1.0.4",
+  "license": "GPL-2.0",
+  "description": "A WordPress Starter Theme built with Material Design Lite.",
+  "homepage": "http://them.es",
+  "author": "them.es",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/them-es/themes-starter-mdl.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-sass": "*",
+  	"grunt-postcss": "*",
+  	"pixrem": "*",
+  	"autoprefixer": "*",
+  	"cssnano": "*",
+    "grunt-browser-sync": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "load-grunt-tasks": "*"
+  }
+}
